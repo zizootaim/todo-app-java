@@ -34,18 +34,18 @@ This is a small To-Do app written in Java, designed to help you manage your task
 3. Once logged in, you can add, update, and delete your to-dos using the respective forms.
 4. The to-dos are displayed in a table for easy reference.
 
-# To Do Addition
+#### To Do Addition
 1. Write an ID of your To Do.
 2. Choose the Status.
 3. Write the Description.
 4. Click on Add Button.
 
-# To Do Updating
+#### To Do Updating
 1. Write the ID of To Do you want to update.
 2. Make your changes.
 4. Click on Update Button.
 
-# To Do Deletion
+#### To Do Deletion
 1. Write the ID of To Do you want to delete.
 2. Click on Delete Button.
 
