@@ -20,7 +20,7 @@ This is a small To-Do app written in Java, designed to help you manage your task
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/zizootaim/todo-app-java.git
+    git clone git@github.com:zizootaim/todo-app-java.git
     ```
 
 2. Open the project in your preferred IDE.
